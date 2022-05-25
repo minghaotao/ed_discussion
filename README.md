@@ -7,7 +7,7 @@ We are transitioning from Piazza to Ed Discussion this semester.
 
 I was tasked to pull the data from Ed Discussion courses and calculate the late response rate for overall courses. 
 
-The idea of this project would be automated to send visuals via our Slack channel. 
+The idea of this project would be automated to send visuals via our Slack channel weekly. 
 	
 	1. Accessing JSON files and doing the following calculations- 
 		a. Covert the timezone to EST (We are based on EST)
