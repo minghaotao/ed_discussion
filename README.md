@@ -1,8 +1,5 @@
 # ed_discussion
 
-
-
-
 We are transitioning from Piazza to Ed Discussion this semester. 
 
 I was tasked to pull the data from Ed Discussion courses and calculate the late response rate for overall courses. 
